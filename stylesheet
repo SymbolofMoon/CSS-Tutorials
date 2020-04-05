@@ -1,0 +1,40 @@
+<style>
+body{
+background-color: yellow;
+font-family: Geneva;
+color: #03d0fc;
+border-color: red;
+}
+h1{
+background-color: red;
+text-align: center;
+}
+p{
+color: red;
+font-size :15px;
+line-height: 20px;
+background-color: #03d0fc;
+padding : 40px;
+border-color : blue;
+border-width : 20px;
+border-style : double;
+margin-right : 100px;
+/*background-image: url(97e59af1eb36081c65ff99a574afd9d2.jpg);*/
+
+border-radius: 10px;
+}
+.image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 50px;
+border-color : blue;
+border-width : 2px;
+border-style : dotted;
+background-color: red;
+}
+.highlight{
+font-style: italic;
+background-color: yellow;
+}
+</style>

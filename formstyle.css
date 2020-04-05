@@ -1,0 +1,67 @@
+.button{
+
+background: #e7e7e7;
+border: 1px solid;
+border-radius: 3px;
+font: 700 13px Helvetica,Arial;
+height: 30px;
+line-height: 28px;
+padding: 0 20px;
+text-align: center;
+margin-right: 10px;
+box-sizing: border-box;
+
+}
+
+u1{
+padding:0;
+list-style type: none;
+}
+li.submit{
+display : inline;
+}
+
+a.button{
+color: #666;
+text-decoration: none;
+float: left;
+
+}
+
+a:hover{
+color: #000;
+background-color: #dadada;
+}
+
+#nav {
+background-color: green;
+color: yellow;
+font-size: 25px; 
+height: 35px;
+
+}
+#nav ul{
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+text-align: center;
+
+
+}
+#nav li{
+display: inline;
+padding: 15px;
+
+}
+
+#nav a{
+text-decoration: none;
+padding: 8px 8px 8px 8px;
+color: white;
+vertical-align: middle;
+}
+
+#nav a:hover{
+color: black;
+background-color: white;
+}
